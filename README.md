@@ -102,26 +102,3 @@ NetBox's functionality can be extended through plugins, which add new models, vi
 * Join the conversation on [the discussion forum](https://github.com/netbox-community/netbox/discussions) and [Slack](https://netdev.chat/)!
 * Already a power user? You can [suggest a feature](https://github.com/netbox-community/netbox/issues/new?assignees=&labels=type%3A+feature&template=feature_request.yaml) or [report a bug](https://github.com/netbox-community/netbox/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yaml) on GitHub.
 * Contributions from the community are encouraged and appreciated! Check out our [contributing guide](CONTRIBUTING.md) to get started.
-
-## Screenshots
-
-<p align="center">
-  <strong>NetBox Dashboard (Light Mode)</strong><br />
-  <img src="docs/media/screenshots/home-light.png" width="600" alt="NetBox dashboard (light mode)" />
-</p>
-<p align="center">
-  <strong>NetBox Dashboard (Dark Mode)</strong><br />
-  <img src="docs/media/screenshots/home-dark.png" width="600" alt="NetBox dashboard (dark mode)" />
-</p>
-<p align="center">
-  <strong>Prefixes List</strong><br />
-  <img src="docs/media/screenshots/prefixes-list.png" width="600" alt="Prefixes list" />
-</p>
-<p align="center">
-  <strong>Rack View</strong><br />
-  <img src="docs/media/screenshots/rack.png" width="600" alt="Rack view" />
-</p>
-<p align="center">
-  <strong>Cable Trace</strong><br />
-  <img src="docs/media/screenshots/cable-trace.png" width="600" alt="Cable trace" />
-</p>
